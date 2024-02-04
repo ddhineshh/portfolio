@@ -136,6 +136,7 @@
  
  .words{
     overflow:hidden;
+    width: 200px;
  }
 @keyframes replace{
  10%{

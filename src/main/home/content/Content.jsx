@@ -41,15 +41,15 @@ const Content = () => {
               <span>nesh</span><span>   </span><span>Th</span>i<span>ru</span>
             </h1>
             <div className="wrapper">
-              <p>I can Cook websites like</p>
+              <p>I can Cook websites using</p>
               <div className="words">
                 <span></span>
-                <span>React.js + Express.js + Node.Js</span>
-                <span>Spring Boot</span>
-                <span>MySQL, MongoDB</span>
+                <span>MERNstack</span>
+                <span>SpringBoot</span>
+                <span>MySQL MongoDB</span>
               </div>
             </div>
-            <div className="home-btn-flex">
+            <div style={{marginTop: '45px'}} className="home-btn-flex">
               <Nav.Link href="#contactme" className="hireme-btn" id="hiremebtn">
                 Hire Me
               </Nav.Link>
